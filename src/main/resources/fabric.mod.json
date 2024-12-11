@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "tpa",
+	"version": "${version}",
+	"name": "tpa",
+	"description": "Questa mod aggiunge la funzionalità base del tpa nel server.",
+	"authors": [
+		"Bestemmie"
+	],
+	"contact": {
+		"homepage": "https://leoflo.me/",
+		"sources": "https://github.com/le0flo/tpa"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/tpa/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"me.leoflo.tpa.Main"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.9",
+		"minecraft": "~1.21.3",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
