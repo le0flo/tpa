@@ -1,6 +1,6 @@
 # Teleport At
 
-Una mod fabric per Minecraft 1.21.3, che aggiunge una semplice implementazione del tpa, con relativi comandi
+Una mod fabric per Minecraft 1.21.3, che aggiunge una semplice implementazione del tpa, con relativi comandi.
 
 ### Lista dei comandi
 
