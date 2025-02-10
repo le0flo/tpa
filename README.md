@@ -1,8 +1,8 @@
 # Teleport At
 
-### Lista dei comandi
+### Commands
 
-- `/tpa <player>` richiede un teletrasporto al player specificato (si può fare soltanto una richiesta alla volta)
-- `/tpcancel` cancella la propria richiesta
-- `/tpaccept <player>` accetta la richiesta del player specificato
-- `/tpreject <player>` rifiuta la richiesta del player specificato
+- `/tpa <player>` requests a tp to the given player
+- `/tpcancel` cancels the ongoing request
+- `/tpaccept <player>` accepts the tp request for the given player 
+- `/tpreject <player>` rejects the tp request for the given player
